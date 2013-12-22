@@ -1,4 +1,4 @@
-# Poker example, for Global Day of Coderetreat, Las Palmas de Gran Canaria
+# Poker example, for Global Day of Coderetreat, Las Palmas de Gran Canaria [![Build Status](https://travis-ci.org/groteck/poker.png?branch=master)](https://travis-ci.org/groteck/poker)
 ## Description
 Ruby solution for poker game.
 ## How to use
